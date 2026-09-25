@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,19,25,32&height=200&section=header&text=Juan%20Esteban%20%7C%20JuanesBy08&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%26%20Systems%20Architect&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="./banner.svg" width="100%" alt="Juan Esteban | JuanesBy08" />
 </div>
 
 <div align="center">
@@ -76,8 +76,8 @@ Los siguientes repositorios documentan la arquitectura, diseño de sistemas, dia
 ## 📊 Actividad & Métricas en Vivo
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juanes7078&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanes7078&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" height="150" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Juanes7078&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" height="150" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Juanes7078&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" height="150" alt="Top Languages" />
 </div>
 
 <div align="center">
